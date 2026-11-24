@@ -1,0 +1,1 @@
+package org.krab.json.annotation.processor.impl;
